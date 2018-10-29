@@ -52,7 +52,7 @@ public class Game {
             }
 
             else if (grid[pos[0]][pos[1]] != GridStates.EMPTY) {
-                System.out.println("Error, stop being a douche. Position taken. Err 1001");
+                System.out.println("Error, Position taken. Err 1001");
             }
 
             else{
